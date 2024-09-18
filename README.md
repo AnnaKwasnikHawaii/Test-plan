@@ -1,6 +1,6 @@
 Plan testów - stworzony na podstawie strony internetowej https://academybugs.com/find-bugs/#
 
-Dokument zawieara:
+Dokument zawiera:
 
 
 1.  Cel dokumentu	

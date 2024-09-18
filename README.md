@@ -1,4 +1,4 @@
-# Plan testów - stworzony na podstawie strony internetowej https://academybugs.com/find-bugs/#
+Plan testów - stworzony na podstawie strony internetowej https://academybugs.com/find-bugs/#
 
 Dokument zawieara:
 
